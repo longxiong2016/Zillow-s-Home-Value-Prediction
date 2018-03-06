@@ -1,4 +1,6 @@
 # Zillow-s-Home-Value-Prediction
-kaggle房价预测竞赛，最终排名约前3%
+kaggle房价预测竞赛
 
-这是我们最终提交的python文件，可以直接跑出结果。
+竞赛页面https://www.kaggle.com/c/zillow-prize-1
+
+catb_training.py    最终提交的python文件,整个题目的解决方案
